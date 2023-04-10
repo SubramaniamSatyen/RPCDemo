@@ -3,6 +3,7 @@
 ## RPC Model
 In this demo we seek to convey the RPC model that provides the basis for distributed systems. The diagram below summarizes how the functions in the client and server code fit into the model.
 
+![RPC_Image](https://user-images.githubusercontent.com/66653384/230818654-a3c51de1-8699-4874-906f-ea7117bc5757.png)
 
 ## Running the Demo (in 10 easy steps!)
 1) Download docker: https://docs.docker.com/engine/install/
